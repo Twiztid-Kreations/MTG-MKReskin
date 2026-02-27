@@ -46,7 +46,7 @@
 1 Sol Ring														√
 1 Umbral Mantle													√
 1 Winged Boots													√
-1 Agent of the Iron Throne
+1 Agent of the Iron Throne										√
 1 Attrition
 1 Dictate of Erebos
 1 Havoc Festival
